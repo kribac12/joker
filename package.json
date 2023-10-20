@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "kribac12-joker",
   "version": "0.1.0",
   "description": "Application that tells jokes",
   "type": "module",
@@ -26,6 +26,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
-    "give-me-a-joke": "^0.5.1"
+    "give-me-a-joke": "^0.5.1",
+    "kribac12-joker": "^0.1.0"
   }
 }
