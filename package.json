@@ -1,0 +1,23 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kribac12/joker.git"
+  },
+  "keywords": [
+    "css",
+    "website"
+  ],
+  "author": "Kristine Bache kristinembache@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kribac12/joker/issues"
+  },
+  "homepage": "https://github.com/kribac12/joker#readme"
+}
